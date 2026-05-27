@@ -2,11 +2,11 @@
 
 # Athila ✦
 
-```txt
-building with ml, cv, llms & occasional design obsessions
-```
 
-msds student @ Boston University  
+Building with ml, cv, llms & occasional design obsessions
+
+
+MSDS student @ Boston University  
 creating things that live somewhere between intelligent systems and creative development
 
 from ai-powered applications and computer vision experiments  
