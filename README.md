@@ -1,13 +1,56 @@
-# athila
+<div align="center">
 
-building things with ml, cv, llms & occasional design obsessions
+# Athila ✦
+
+```txt
+building with ml, cv, llms & occasional design obsessions
+```
 
 msds student @ Boston University  
-interested in intelligent systems, creative development, and interfaces that feel a little more human.
+creating things that live somewhere between intelligent systems and creative development
 
-i enjoy working on projects that live somewhere between data and design — from ai-powered applications and computer vision experiments to interactive frontend experiences and random late-night ideas that somehow turn into real projects.
+from ai-powered applications and computer vision experiments  
+to interactive interfaces and side projects that started as 2am ideas.
 
-## working with
-```txt
-Python • React • OpenCV • NLP • LLMs
-TensorFlow • Flask • SQL • Angular • Git
+</div>
+
+<br>
+
+## ✦ working with
+
+<div align="center">
+
+| | |
+|---|---|
+| languages | Python • Java • JavaScript |
+| frontend | React • Angular • HTML/CSS |
+| ai/ml | OpenCV • NLP • LLMs • TensorFlow • scikit-learn |
+| backend | Flask • Firebase |
+| tools | Git • SQL • Figma |
+
+</div>
+
+<br>
+
+## ✦ currently exploring
+
+- rag systems & vector databases  
+- computer vision + intelligent interfaces  
+- full stack ai applications  
+- interactive frontend experiences  
+- creative coding & ui systems  
+
+<br>
+
+## ✦ github stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=transparent&hide_border=true)
+
+</div>
+
+<br>
+
