@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Athila ✦
 
@@ -18,7 +18,7 @@ to interactive interfaces and side projects that started as 2am ideas.
 
 ## ✦ working with
 
-<div align="center">
+<div align="left">
 
 | | |
 |---|---|
@@ -42,15 +42,5 @@ to interactive interfaces and side projects that started as 2am ideas.
 
 <br>
 
-## ✦ github stats
 
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=transparent&hide_border=true)
-
-</div>
-
-<br>
 
