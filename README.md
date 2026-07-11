@@ -1,16 +1,16 @@
 <div align="left">
 
-# Athila ✦
-Building with ml, cv, llms & occasional design obsessions
+# ✦ Athila ✦
+Building with ml, cv, llms & occasional design obsessions!
 
 MSDS student @ Boston University  
-creating things that live somewhere between intelligent systems and creative development
+Creating things that live somewhere between intelligent systems and creative development.
 
 </div>
 
 <br>
 
-## ✦ working with
+## ✦ Working with -
 
 <div align="left">
 
