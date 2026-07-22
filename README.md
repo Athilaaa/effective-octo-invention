@@ -17,7 +17,7 @@ Creating things that live somewhere between intelligent systems and creative dev
 | | |
 |---|---|
 | languages | Python • Java • JavaScript |
-| frontend | React • Angular • HTML/CSS |
+| frontend | React • Angular |
 | ai/ml | OpenCV • NLP • LLMs • TensorFlow • scikit-learn |
 | backend | Flask • Firebase |
 | tools | Git • SQL • Figma |
